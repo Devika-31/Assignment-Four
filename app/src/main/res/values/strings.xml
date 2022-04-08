@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pop Up!</string>
+    <string name="enter_text_to_convert">Enter text to convert!</string>
+    <string name="next">Next</string>
+
+    <string name="textEdit">Text Editor</string>
+    <string name="buttonEdit">Edit</string>
+    <string name="reverse">Reverse</string>
+    <string name="hint">Enter any text</string>
+    <string name="dilogtitle">Edit Text</string>
+    <string name="upper">Upper Case</string>
+    <string name="lower">Lower Case</string>
+    <string name="initcap">Init Cap</string>
+    <string name="done">Done</string>
+</resources>
