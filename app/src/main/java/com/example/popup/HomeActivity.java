@@ -53,6 +53,7 @@ public class HomeActivity extends AppCompatActivity {
         customDialogActivity.dismiss();
         }
     }
+    //function to check the validations if the edittext is empty
     public void validationCheck(){
         if (edtInput.getText().toString().isEmpty()){
 
