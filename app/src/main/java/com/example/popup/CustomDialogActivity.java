@@ -30,7 +30,7 @@ public class CustomDialogActivity extends Dialog {
 
 
     }
-
+//interface
     public interface OnNextListener {
         void onNextListener(CustomDialogActivity customDialogActivity,
                             String outputReceived);
@@ -38,7 +38,7 @@ public class CustomDialogActivity extends Dialog {
     }
 
     private OnNextListener onNextListener = null;
-
+//setting up interface listeners
     public void setUpOnNextListener(OnNextListener onNextListener) {
         this.onNextListener = onNextListener;
 
